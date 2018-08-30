@@ -14,7 +14,7 @@ NUM_CLASSES = 15
 # (訓練データ数)
 NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN = 3896
 
-# umber of evaluation data
+# Number of evaluation data
 # (評価データ数)
 NUM_EXAMPLES_PER_EPOCH_FOR_EVAL  = 423
 
