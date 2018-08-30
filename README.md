@@ -8,7 +8,7 @@ Reading and writing CIFAR file format. and, you can try TensorFlow's CIFAR-10 sa
 You only preparing images.    
 (あなたは画像を用意するだけです。)
   
-# How to use  
+# How to use (使い方)    
   
 ## 1. Creation of training and evaluation file (訓練/評価ファイルの作成)  
   
