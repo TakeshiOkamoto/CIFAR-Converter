@@ -1,6 +1,6 @@
 # CIFAR Converter
   
-Reading and writing CIFAR file format. and, you can try TensorFlow's CIFAR-10 sample with the original dataset.  
+Reading and writing CIFAR file format. and, you can try TensorFlow's CIFAR-10 tutorials with the original dataset.  
 (CIFARファイルの読み書き。そして、TensorFlowのCIFAR-10サンプルをオリジナルデータセットで試せます。)  
   
 <img src="https://github.com/TakeshiOkamoto/CIFAR-Converter/blob/master/image.png">  
