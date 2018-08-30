@@ -31,8 +31,8 @@ Place the following files in the same folder.
 |cifar10_input.py|
 |cifar10_train.py|
 |try.ipynb|
-|training file (Created in Chapter 1)|
-|evaluation file (Created in Chapter 1)|  
+|training file (Created in Chapter 1 / 1章で作成)|
+|evaluation file (Created in Chapter 1 / 1章で作成)|  
   
 ## 3. Edit settings (設定の編集)    
   
