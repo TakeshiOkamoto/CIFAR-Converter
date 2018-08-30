@@ -1,7 +1,7 @@
 # CIFAR Converter
   
 Reading and writing CIFAR file format. and, you can try TensorFlow's CIFAR-10 tutorials with the original dataset.  
-(CIFARファイルの読み書き。そして、TensorFlowのCIFAR-10チュートリアルをオリジナルデータセットで試せます。)  
+(CIFARファイルの読み書き。そして、TensorFlowのCIFAR-10サンプルをオリジナルデータセットで試せます。)  
   
 <img src="https://github.com/TakeshiOkamoto/CIFAR-Converter/blob/master/image.png">  
   
@@ -31,8 +31,8 @@ Place the following files in the same folder.
 |cifar10_input.py|
 |cifar10_train.py|
 |try.ipynb|
-|training file (Created in Chapter 1 / 1章で作成)|
-|evaluation file (Created in Chapter 1 / 1章で作成)|  
+|Training file (Created in Chapter 1 / 1章で作成)|
+|Evaluation file (Created in Chapter 1 / 1章で作成)|  
   
 ## 3. Edit settings (設定の編集)    
   
@@ -71,5 +71,8 @@ However, the operation is unconfirmed.
 (但し、動作は未確認です。)  
   
 # Contact  
-English Can understand, only 3-year-old level :-)
+English Can understand, only 3-year-old level :-)  
+  
+# Other  
+[MNIST Converter](https://github.com/TakeshiOkamoto/MNIST-Converter)
   
